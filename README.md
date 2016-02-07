@@ -1,5 +1,7 @@
 # Coupon Collector Calculator (CCC)
 
+See the PDF version of this README file if you want to view the mathematical symbols the way they were intended.
+
 Let $X_1, X_2, \ldots$ be i.i.d. random variables taking values in $\{1, \ldots, N\}$. Let $p_j = P(X_1 = j)$. Fix $n \in \mathbb{N}$, nonempty $S \subset \{1, \ldots, N\}$, and $k \in \{1, \ldots, |S|\}$. The main purpose of CCC is to calculate
   $$
   P(|\{X_1, \ldots, X_n\} \cap S| \ge k).
